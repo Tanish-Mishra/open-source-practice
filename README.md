@@ -127,6 +127,7 @@ On branch <name-of-your-branch>
 nothing to commit, working tree clean
 ```
 
+B
 **7. Pushing your repository to GitHub:**
 
 ```bash
@@ -175,7 +176,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 ---
 
-## `Hacktoberfest Community`
+#BOB# `Hacktoberfest Community`
 
 ### **Contents**
 
@@ -229,7 +230,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Gyau Boahen Elvis](https://github.com/gyauelvis)
 
 | [`Back To Top`](#contents) |
-
+BOB
 - ### **H**
 
  
@@ -288,6 +289,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **P**
  
   - [Pushkaraj Kulkarni](https://github.com/pushkaraj2007)
+  - [Pranjal Verma] (https://github.com/PranjalPV)
 
 | [`Back To Top`](#contents) |
 
