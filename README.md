@@ -184,10 +184,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **A**
 
-  - [Aziz Prabowo](https://github.com/azizp128)
-
+  - [Aziz Prabowo](https://github.com//
 | [Back To Top](#contents) |
-
+- [crucie] (https://github.com//(crucie) 
 - ### **B**
 
   
