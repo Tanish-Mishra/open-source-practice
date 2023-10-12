@@ -191,7 +191,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [Back To Top](#contents) |
 
 - ### **B**
-
+  - [BM](https://github.com/adbhut-cutting-technique)
   
   - [Burhanuddin Raja](https://github.com/BurhanRaja)
   -[Cassia](https://github.com/cassia-crypto)
@@ -200,9 +200,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **C**
 
-  
   - [Cynthia Teeters](https://github.com/cynthiateeters)
   - [Dhruv Gupta](https://github.com/DhruvGupta6850)
+  
 | [`Back To Top`](#contents) |
 
 - ### **D**
