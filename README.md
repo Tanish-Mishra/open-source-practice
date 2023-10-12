@@ -2,6 +2,7 @@
 
 **Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
+
 We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organization that you can contribute to. If you would like to join our GitHub organisation, raise an [issue](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join the EddieHub [Discord](http://discord.eddiehub.org/) channel
 
 ---
@@ -126,7 +127,7 @@ or
 On branch <name-of-your-branch>
 nothing to commit, working tree clean
 ```
-
+ZZZZ
 **7. Pushing your repository to GitHub:**
 
 ```bash
@@ -183,22 +184,24 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
-
-  - [Aziz Prabowo](https://github.com//
+  - [Aziz Prabowo](https://github.com/azizp128)
+  - [Ayushi Shukla](https://github.com/ayushishukla442)
+  - [amritansh](https://github.com/Amritansh69)
 | [Back To Top](#contents) |
 - [crucie] (https://github.com//(crucie) 
 - ### **B**
-
+  - [BM](https://github.com/adbhut-cutting-technique)
   
   - [Burhanuddin Raja](https://github.com/BurhanRaja)
+  -[Cassia](https://github.com/cassia-crypto)
 
 | [`Back To Top`](#contents) |
 
 - ### **C**
 
-  
   - [Cynthia Teeters](https://github.com/cynthiateeters)
-
+  - [Dhruv Gupta](https://github.com/DhruvGupta6850)
+  
 | [`Back To Top`](#contents) |
 
 - ### **D**
@@ -287,6 +290,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **P**
  
   - [Pushkaraj Kulkarni](https://github.com/pushkaraj2007)
+  - [praina ] (https://github.com/praina98670)
+  
 
 | [`Back To Top`](#contents) |
 
@@ -295,9 +300,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **R**
-
+  - [Rajvar Sahu](https://github.com/rajvarsahu)
   
   - [Ryga](https://github.com/ryga9)
+  - [Rishabh](https://github.com/xRishabhx)
 
 | [`Back To Top`](#contents) |
 
@@ -305,6 +311,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   
   - [syedareehaquasar](https://github.com/syedareehaquasar)
+  - [shresthtiwari](https:github.com/tiwari-shresth)
+  - [Sushant Singh Rajput](https://github.com/SushantSinghhrRajput)
 
 | [`Back To Top`](#contents) |
 
@@ -312,6 +320,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
  
   - [Twinkle](https://github.com/twinkletrivaan)
+  - [Tanish Mishra](https://github.com/tanish-mishra)
 
 | [`Back To Top`](#contents) |
 
